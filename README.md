@@ -1,6 +1,6 @@
 # PyPad
 
-A tiny text-editor written in Python.
+A tiny Tkinter text editor.
 
 ## Environment
 
