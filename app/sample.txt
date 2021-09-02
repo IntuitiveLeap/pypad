@@ -1,0 +1,6 @@
+This is a file with some text inside.
+
+Also, it has at least one blank line.
+WoW!
+
+
